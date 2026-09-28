@@ -9,7 +9,7 @@ The Backend to BudgetFyn (Budgeting Web Application). Used simulated/testing dat
 **Other tools:** Mongoose, Dotenv
 
 ### Explanation:
-On a periodic timer, transaction data is fetched using PlaidAPI. It is then stored into the MongoDB database after data truncation.
+Transaction data is fetched using PlaidAPI. It is then stored into the MongoDB database after data truncation. Mongoose is used to interact between the database and the backend. For login and register authentication JWT tokens are used for authorisation.
 
 
 This project is not hosted for personal privacy/security purposes as it is a test simulation of banking information and not meant for real use.
