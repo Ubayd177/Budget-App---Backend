@@ -1,10 +1,14 @@
 # Budget-App---Backend
 The Backend to BudgetFyn
 
-Stack: MongoDB for database, Node.js for backend, Plaid API for retrieving transaction data
+🛠️ Tech Stack (Backend): 
+Database: MongoDB
+Backend framework: Node.js & Express.js
+API: Plaid API for retrieving transaction data
+Authentication: JWT tokens
+Other tools: Mongoose, Dotenv
 
 Explanation:
-Using Node.js 
 
 
 
