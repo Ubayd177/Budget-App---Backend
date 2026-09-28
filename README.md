@@ -1,4 +1,4 @@
-# Budget-App---Backend
+# Budget-App-Backend
 The Backend to BudgetFyn (Budgeting Web Application). Used simulated/testing data.
 
 ### 🛠️ Tech Stack (Backend): 
